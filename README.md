@@ -17,3 +17,16 @@ Is a self study project for understanding generative neural networks.
 
 - [Bay Area Deep Learning School Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be&t=13874)
 - [slides](https://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)
+
+#### Courses 
+
+- [Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+- [Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/)
+
+#### Fun Stuff 
+
+- Generative Adversial Networks 
+- VAE/ D-VAE
+- Gaussian Mixture Models 
+- char-rnn vector twitter svg 
+- Transformers/Wavenet/ByteNet
