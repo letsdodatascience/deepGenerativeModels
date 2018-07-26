@@ -13,6 +13,10 @@ Is a self study project for understanding generative neural networks.
 
 - [fun Experiments for machine learning](http://www.kylemcdonald.net/)
 
+- [Compositional Pattern Producing Networks: A Novel Abstraction of Development](http://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)
+
+- [Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
+
 #### Speech 
 
 - [Bay Area Deep Learning School Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be&t=13874)
