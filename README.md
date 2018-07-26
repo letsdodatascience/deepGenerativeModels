@@ -10,12 +10,11 @@ Is a self study project for understanding generative neural networks.
 - [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
 - [Sequence Modeling With CTC](https://distill.pub/2017/ctc/)
 - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
-
 - [fun Experiments for machine learning](http://www.kylemcdonald.net/)
-
 - [Compositional Pattern Producing Networks: A Novel Abstraction of Development](http://eplex.cs.ucf.edu/papers/stanley_gpem07.pdf)
-
 - [Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-aligned-interpolation)
+- [Feature-wise transformations](https://distill.pub/2018/feature-wise-transformations/)
+- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 
 #### Speech 
 
